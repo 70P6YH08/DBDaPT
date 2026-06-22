@@ -1,0 +1,1 @@
+Scaffold-DbContext "Data Source=mssql;Initial Catalog=ispp3106;User ID=ispp3106;Password=3106;Trust Server Certificate=True" Microsoft.EntityFrameworkCore.SqlServer -ContextDir Contexts -OutputDir Models -Context CinemaDbContext -Tables Film, Visitor, Ticket, Session, CinemaHall

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gorbu\\Desktop\\All\\collage\\3year1semestr\\\u0422\u0420\u0438\u0417\u0411\u0414\\DBDaPT\\LabWorks\\LabWork10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BDA4B153-413F-4FBE-BCE3-C9D8799B5FE1}|LabWork10\\LabWork10.csproj|c:\\users\\gorbu\\desktop\\all\\collage\\3year1semestr\\\u0442\u0440\u0438\u0437\u0431\u0434\\dbdapt\\labworks\\labwork10\\labwork10\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDA4B153-413F-4FBE-BCE3-C9D8799B5FE1}|LabWork10\\LabWork10.csproj|solutionrelative:labwork10\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\gorbu\\Desktop\\All\\collage\\3year1semestr\\\u0422\u0420\u0438\u0417\u0411\u0414\\DBDaPT\\LabWorks\\LabWork10\\LabWork10\\Contexts\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "LabWork10\\Contexts\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\gorbu\\Desktop\\All\\collage\\3year1semestr\\\u0422\u0420\u0438\u0417\u0411\u0414\\DBDaPT\\LabWorks\\LabWork10\\LabWork10\\Contexts\\AppDbContext.cs",
+              "RelativeToolTip": "LabWork10\\Contexts\\AppDbContext.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAA9wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T23:40:41.199Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

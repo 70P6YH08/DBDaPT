@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gorbu\\Desktop\\All\\collage\\3year1semestr\\\u0422\u0420\u0438\u0417\u0411\u0414\\DBDaPT\\LabWorks\\LabWork8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC098EB-9EA2-484F-87D4-F4CA0A7E69D8}|labwork8\\LabWork8.csproj|c:\\users\\gorbu\\desktop\\all\\collage\\3year1semestr\\\u0442\u0440\u0438\u0437\u0431\u0434\\dbdapt\\labworks\\labwork8\\labwork8\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCC098EB-9EA2-484F-87D4-F4CA0A7E69D8}|labwork8\\LabWork8.csproj|solutionrelative:labwork8\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC098EB-9EA2-484F-87D4-F4CA0A7E69D8}|labwork8\\LabWork8.csproj|c:\\users\\gorbu\\desktop\\all\\collage\\3year1semestr\\\u0442\u0440\u0438\u0437\u0431\u0434\\dbdapt\\labworks\\labwork8\\labwork8\\repository\\visitorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCC098EB-9EA2-484F-87D4-F4CA0A7E69D8}|labwork8\\LabWork8.csproj|solutionrelative:labwork8\\repository\\visitorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC098EB-9EA2-484F-87D4-F4CA0A7E69D8}|labwork8\\LabWork8.csproj|c:\\users\\gorbu\\desktop\\all\\collage\\3year1semestr\\\u0442\u0440\u0438\u0437\u0431\u0434\\dbdapt\\labworks\\labwork8\\labwork8\\repository\\genrerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCC098EB-9EA2-484F-87D4-F4CA0A7E69D8}|labwork8\\LabWork8.csproj|solutionrelative:labwork8\\repository\\genrerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC098EB-9EA2-484F-87D4-F4CA0A7E69D8}|labwork8\\LabWork8.csproj|c:\\users\\gorbu\\desktop\\all\\collage\\3year1semestr\\\u0442\u0440\u0438\u0437\u0431\u0434\\dbdapt\\labworks\\labwork8\\labwork8\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCC098EB-9EA2-484F-87D4-F4CA0A7E69D8}|labwork8\\LabWork8.csproj|solutionrelative:labwork8\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DatabaseContext.cs",
+              "DocumentMoniker": "C:\\Users\\gorbu\\Desktop\\All\\collage\\3year1semestr\\\u0422\u0420\u0438\u0417\u0411\u0414\\DBDaPT\\LabWorks\\LabWork8\\LabWork8\\DatabaseContext.cs",
+              "RelativeDocumentMoniker": "LabWork8\\DatabaseContext.cs",
+              "ToolTip": "C:\\Users\\gorbu\\Desktop\\All\\collage\\3year1semestr\\\u0422\u0420\u0438\u0417\u0411\u0414\\DBDaPT\\LabWorks\\LabWork8\\LabWork8\\DatabaseContext.cs",
+              "RelativeToolTip": "LabWork8\\DatabaseContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T23:40:01.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VisitorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\gorbu\\Desktop\\All\\collage\\3year1semestr\\\u0422\u0420\u0438\u0417\u0411\u0414\\DBDaPT\\LabWorks\\LabWork8\\LabWork8\\Repository\\VisitorRepository.cs",
+              "RelativeDocumentMoniker": "LabWork8\\Repository\\VisitorRepository.cs",
+              "ToolTip": "C:\\Users\\gorbu\\Desktop\\All\\collage\\3year1semestr\\\u0422\u0420\u0438\u0417\u0411\u0414\\DBDaPT\\LabWorks\\LabWork8\\LabWork8\\Repository\\VisitorRepository.cs",
+              "RelativeToolTip": "LabWork8\\Repository\\VisitorRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T23:40:00.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GenreRepository.cs",
+              "DocumentMoniker": "C:\\Users\\gorbu\\Desktop\\All\\collage\\3year1semestr\\\u0422\u0420\u0438\u0417\u0411\u0414\\DBDaPT\\LabWorks\\LabWork8\\LabWork8\\Repository\\GenreRepository.cs",
+              "RelativeDocumentMoniker": "LabWork8\\Repository\\GenreRepository.cs",
+              "ToolTip": "C:\\Users\\gorbu\\Desktop\\All\\collage\\3year1semestr\\\u0422\u0420\u0438\u0417\u0411\u0414\\DBDaPT\\LabWorks\\LabWork8\\LabWork8\\Repository\\GenreRepository.cs",
+              "RelativeToolTip": "LabWork8\\Repository\\GenreRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T23:39:59.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\gorbu\\Desktop\\All\\collage\\3year1semestr\\\u0422\u0420\u0438\u0417\u0411\u0414\\DBDaPT\\LabWorks\\LabWork8\\LabWork8\\Repository\\IRepository.cs",
+              "RelativeDocumentMoniker": "LabWork8\\Repository\\IRepository.cs",
+              "ToolTip": "C:\\Users\\gorbu\\Desktop\\All\\collage\\3year1semestr\\\u0422\u0420\u0438\u0417\u0411\u0414\\DBDaPT\\LabWorks\\LabWork8\\LabWork8\\Repository\\IRepository.cs",
+              "RelativeToolTip": "LabWork8\\Repository\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T23:39:58.683Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
